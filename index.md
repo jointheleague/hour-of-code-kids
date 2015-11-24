@@ -5,18 +5,20 @@ layout: default
 Intro
 ----
 Have you played with code.org already?	//show of hands
+
 This is the code behind the blocks. The kid of code that professional programmers use.
 
 How to use SketchPad
---------------------
-Students open sketchpad.cc
-Click “Create New Sketch”
-Press the play button.
-Change some numbers the code and see what happens. //allow them to experiment for 3  mins
+----
+1. Students open sketchpad.cc
+2. Click “Create New Sketch”
+3. Press the play button.
+4. Change some numbers the code and see what happens. //allow them to experiment for 3  mins
 
 Ellipse
--------
+----
 Whiteboard: 
+
 ```js
 ellipse(50, 50, 50, 50);
 ```
@@ -25,6 +27,7 @@ Challenge: Adjust the numbers to figure out what they mean.	//ask students and d
 Size
 ----
 Whiteboard:
+
 ```js
 size(width, height);
 ```
