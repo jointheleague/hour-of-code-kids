@@ -1,9 +1,5 @@
-Adult Hour of Code
+Hour of Code for Kids
 ==================
 
-Based on code recipes from League of Amazing Developers
+Teacher guide to be used with the online editor SketchPad.cc
 
-Files:
-
-- [homepage](index.md)
-- [answer key](answers.md)
