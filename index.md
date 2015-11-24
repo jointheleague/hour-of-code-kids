@@ -2,20 +2,35 @@
 layout: default
 ---
 
-TODO: Add intro
-
-
-Joke
+Intro
 ----
+Have you played with code.org already?	//show of hands
+This is the code behind the blocks. The kid of code that professional programmers use.
 
-Alert boxes are little dialog windows that pop up.  Alert boxes have an OK button that you can press to make them disappear.
+How to use SketchPad
+--------------------
+Students open sketchpad.cc
+Click “Create New Sketch”
+Press the play button.
+Change some numbers the code and see what happens. //allow them to experiment for 3  mins
 
-Let's make a program that tells a joke.
+Ellipse
+-------
+Whiteboard: 
+```js
+ellipse(50, 50, 50, 50);
+```
+Challenge: Adjust the numbers to figure out what they mean.	//ask students and derive (x, y, width, height)
 
-We'll have two things in this program:
+Size
+----
+Whiteboard:
+```js
+size(width, height);
+```
+Challenge: Increase the canvas size.
 
-1. An alert that tells the setup for the joke (we'll show this first)
-2. An alert that tells the punchline
+**Teacher note**: If you put the size command after the ellipse command, it will wipe out the ellipse.
 
 Example code:
 
