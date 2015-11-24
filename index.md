@@ -6,7 +6,7 @@ Intro
 ----
 Have you played with code.org already?	//show of hands
 
-This is the code behind the blocks. The kid of code that professional programmers use.
+This is the code behind the blocks. The kind of code that professional programmers use.
 
 How to use SketchPad
 ----
@@ -14,6 +14,7 @@ How to use SketchPad
 2. Click “Create New Sketch”
 3. Press the play button.
 4. Change some numbers the code and see what happens. //allow them to experiment for 3  mins
+5. Delete all this code to start fresh...
 
 Ellipse
 ----
@@ -22,7 +23,47 @@ Whiteboard:
 ```js
 ellipse(50, 50, 50, 50);
 ```
-Challenge: Adjust the numbers to figure out what they mean.	//ask students and derive (x, y, width, height)
+Challenge #1: Adjust the numbers to figure out what they mean.	//interact with students to derive (x, y, width, height)
+
+Challenge #2: Make a face by adding eyes.
+
+Color
+----
+Whiteboard:
+
+```js
+fill(255, 0, 0);    
+//gives RED
+//the 3 numbers stand for red, green and blue
+//range from 0 to 255
+```
+Challenge: Add your favorite color. There are lots at rgbchart.com
+
+Interaction
+----
+**Delete all the code.**
+
+To make a sketch interactive we need to use 2 special methods. 
+
+The things we want to happen only once go into the setup() method.
+
+The things we want to animate go into the draw() method.
+
+Whiteboard:
+
+```js
+void setup()
+{
+    
+    
+}
+void draw()
+{
+    
+     
+}
+```
+
 
 Size
 ----
@@ -34,22 +75,6 @@ size(width, height);
 Challenge: Increase the canvas size.
 
 **Teacher note**: If you put the size command after the ellipse command, it will wipe out the ellipse.
-
-Example code:
-
-```js
-alert("why did the chicken cross the road");
-alert("to get to the other side");
-```
-
-To make an alert we type `alert` and then inside parenthesis we put some text inside a string.
-
-Strings are the places you put text in your program.  We use double quotes around text to make strings.  Strings are how we make text to show to the user.
-
-Every command in our program ends with a semicolon.
-
-When we put things in parenthesis like this, that's calling a function.
-
 
 Greeter
 -------
