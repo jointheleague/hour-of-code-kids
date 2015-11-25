@@ -79,8 +79,6 @@ background(red, green, blue);
 ```
 Challenge: Make a large canvas with a nice background color. **Put it in the setup method.**
 
-**Teacher note**: If you put the size command after the ellipse command, it will wipe out the ellipse.
-
 
 Add a shape
 -------
