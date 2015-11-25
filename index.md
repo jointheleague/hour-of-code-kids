@@ -98,6 +98,7 @@ Challenge: Choose a shape. **Put it in the draw method.**
 Interaction
 ----
 These special variables show the co-ordinates of the mouse. //illustrate on the whiteboard
+
 ```js
 mouseX
 mouseY
@@ -107,6 +108,7 @@ Challenge: Use these variables instead of numbers in your shape.
 if/else
 ---------------------
 Whiteboard:
+
 ```js
 if(mousePressed)
     fill(0, 255, 0);
@@ -120,6 +122,7 @@ Challenge: Make the color of your shape change when the mouse is pressed.
 Optional
 ----
 Whiteboard:
+
 ```js
 random(255);    //in place of fill numbers
 text("your name", x, y);    //to sign your sketch
