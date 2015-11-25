@@ -117,9 +117,9 @@ else
 ```
 Challenge: Make the color of your shape change when the mouse is pressed.
 
-** Allow students to experiment and get creative with what they have learned.**
+**Allow students to experiment and get creative with what they have learned.**
 
-Optional
+[Optional]
 ----
 Whiteboard:
 
