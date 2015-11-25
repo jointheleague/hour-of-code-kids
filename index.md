@@ -16,6 +16,7 @@ How to use SketchPad
 4. Change some numbers the code and see what happens. //allow them to experiment for 3  mins
 5. Delete all this code to start fresh...
 
+
 Ellipse
 ----
 Whiteboard: 
@@ -26,6 +27,7 @@ ellipse(50, 50, 50, 50);
 Challenge #1: Adjust the numbers to figure out what they mean.	//interact with students to derive (x, y, width, height)
 
 Challenge #2: Make a face by adding eyes.
+
 
 Color
 ----
@@ -38,6 +40,7 @@ fill(255, 0, 0);
 //range from 0 to 255
 ```
 Challenge: Add your favorite color. There are lots at rgbchart.com
+
 
 A basic sketch
 ----
@@ -65,6 +68,7 @@ void draw()
 ```
 Challenge: Have students copy from whiteboard.
 
+
 Size & Background
 ----
 Whiteboard:
@@ -77,6 +81,7 @@ Challenge: Make a large canvas with a nice background color. **Put it in the set
 
 **Teacher note**: If you put the size command after the ellipse command, it will wipe out the ellipse.
 
+
 Add a shape
 -------
 Whiteboard:
@@ -88,6 +93,7 @@ rect(x, y, width, height);
 ```
 
 Challenge: Choose a shape. **Put it in the draw method.**
+
 
 Interaction
 ----
